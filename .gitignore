@@ -6,8 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#database
+app.db
+
 #IDE
 .idea/
+.scannerwork/
 
 # Distribution / packaging
 .Python
